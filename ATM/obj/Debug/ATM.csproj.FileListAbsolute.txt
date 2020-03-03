@@ -1,0 +1,6 @@
+C:\MarchPractice\ATM\ATM\bin\Debug\ATM.exe.config
+C:\MarchPractice\ATM\ATM\bin\Debug\ATM.exe
+C:\MarchPractice\ATM\ATM\bin\Debug\ATM.pdb
+C:\MarchPractice\ATM\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\MarchPractice\ATM\ATM\obj\Debug\ATM.exe
+C:\MarchPractice\ATM\ATM\obj\Debug\ATM.pdb
