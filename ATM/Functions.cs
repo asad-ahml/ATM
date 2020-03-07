@@ -54,6 +54,20 @@ namespace ATM
 
             }
 
+           
+        }
+            public static void Third()
+            {
+            // In this method user will be asked if he wants to depost funds.
+            // Program will add funds to existing balance and display the current balance.
+            Console.WriteLine("Welcome to Good ATM. Enter the amount you want to deposit?");
+            int deposit = Int32.Parse(Console.ReadLine());
+            Console.WriteLine("Please enter your balance");
+            int balance = Int32.Parse(Console.ReadLine());
+            int newbalance = (deposit + balance);
+            Console.WriteLine("Your new balance is " + newbalance);
+            Console.WriteLine("Press Any Key To Continue");
+
         }
 
     }
